@@ -1,1 +1,3 @@
-testing = 0
+randomize()
+testing = 750
+spawners = 1
