@@ -7,7 +7,7 @@
     "path": "sprites/obj_invis/obj_invis.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
