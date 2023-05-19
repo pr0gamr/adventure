@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_KILL",
   "spriteId": {
-    "name": "Sprite4",
-    "path": "sprites/Sprite4/Sprite4.yy",
+    "name": "spr_slash",
+    "path": "sprites/spr_slash/spr_slash.yy",
   },
   "solid": false,
   "visible": true,

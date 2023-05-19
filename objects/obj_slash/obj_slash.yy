@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_slash",
   "spriteId": {
-    "name": "Sprite4",
-    "path": "sprites/Sprite4/Sprite4.yy",
+    "name": "spr_slashc",
+    "path": "sprites/spr_slashc/spr_slashc.yy",
   },
   "solid": false,
   "visible": true,
